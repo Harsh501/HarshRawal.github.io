@@ -1,0 +1,23 @@
+{
+  "name": "Harsh Rawal",
+  "version": "1.0.0",
+  "description": "About me.",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "build": "npm run docs:build" 
+  },
+  "keywords": [
+    "vitepress",
+    "github-pages",
+    "static-site"
+  ],
+  "author": "Harsh Rawal",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.45",
+    "vue": "^3.4.19"
+  }
+}
