@@ -6,13 +6,14 @@ export default {
 
   themeConfig: {
     nav: [
-      { text: 'Connect'}
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/Harsh501' },
-      { icon: 'linkedIn', link: 'https://www.linkedin.com/in/harsh-rawal-1b9397102' },
-      { icon : 'chess', link: 'https://www.chess.com/member/hdr501'}
+      {
+        text: 'Connect',
+        items: [
+          { text: 'GitHub', link: 'https://github.com/Harsh501' },
+          { text: 'LinkedIn', link: 'https://www.linkedin.com/in/harsh-rawal-1b9397102' },
+          { text: 'Chess.com', link: 'https://www.chess.com/member/hdr501'}
+        ]
+      }
     ]
   }
 }
