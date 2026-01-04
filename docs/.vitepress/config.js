@@ -6,26 +6,13 @@ export default {
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-    ],
-
-    sidebar: [
-      {
-        text: 'Guide',
-        items: [
-          { text: 'Getting Started', link: '/guide/getting-started' },
-          { text: 'Configuration', link: '/guide/configuration' }
-        ]
-      }
+      { text: 'Connect'}
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Harsh501/HarshRawal.github.io' }
-    ],
-
-    search: {
-      provider: 'local'
-    }
+      { icon: 'github', link: 'https://github.com/Harsh501' },
+      { icon: 'linkedIn', link: 'https://www.linkedin.com/in/harsh-rawal-1b9397102' },
+      { icon : 'chess', link: 'https://www.chess.com/member/hdr501'}
+    ]
   }
 }
