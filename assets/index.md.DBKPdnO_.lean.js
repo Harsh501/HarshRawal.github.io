@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as t,ae as r}from"./chunks/framework.CnnHvavK.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function o(s,e,l,c,d,m){return t(),n("div",null,[...e[0]||(e[0]=[r("",4)])])}const g=a(i,[["render",o]]);export{h as __pageData,g as default};
