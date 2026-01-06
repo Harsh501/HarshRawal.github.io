@@ -8,6 +8,7 @@ export default {
   ],
 
   themeConfig: {
+    outline: [2, 3],
     nav: [
       {
         text: 'Connect',
