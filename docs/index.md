@@ -10,7 +10,7 @@ I hold a Master’s degree in Computer Science from SUNY Buffalo, with a concent
 * Architected third-party carrier integrations enabling negotiated rates across 8+ UK carriers, targeting 204.8M annual shipments and $5.4B projected revenue; recognized by VP leadership for <a href="/HarshRawal.github.io/GameChangersAward.jpg" target="_blank">high-impact international fulfillment innovation.</a>
 
 ### Independent initiatives
-* Building a platform that connects sellers directly with freight carriers to facilitate shipping purchases.
+* Founder of shipping company that connects sellers directly with freight carriers to facilitate shipping purchases.
 * Building ML Models using large-scale shipping data to forecast GDP and track leading economic indicators.
 * Training toward a 2000 Elo chess rating (if you’ve got 6 minutes to spare, [let’s play](https://link.chess.com/friend/VY0L6s).)
 
